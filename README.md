@@ -7,7 +7,7 @@
 
 
 
-##### While making daily and weekly plans and following them, some use only paper and pen while others use the frequently preferred todo list applications. I also made a to-do app.
+##### _While making daily and weekly plans and following them, some use only paper and pen while others use the frequently preferred todo list applications. I also made a to-do app._
 
 
 ##### About the project
