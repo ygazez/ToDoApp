@@ -10,16 +10,18 @@
 ##### _While making daily and weekly plans and following them, some use only paper and pen while others use the frequently preferred todo list applications. I also made a to-do app._
 
 
-##### About the project
-In this to-do application, the expression we get from the input is added to the tasklist. The TaskList component lists the array it gets with the "t" prop.
+### _About the project_
+ _In this to-do application, the expression we get from the input is added to the tasklist. The TaskList component lists the array it gets with the "t" prop._
 
 
 
 
-##### Günlük, haftalık planlar yapıp bunları takip etme aşamasında kimi sadece kağıt ve kalem kullanırken kimi de sıklıkla tercih edilen todo list uygulamaları kullanır.Ben de bir to-do app yaptım.
+##### _Günlük, haftalık planlar yapıp bunları takip etme aşamasında kimi sadece kağıt ve kalem kullanırken kimi de sıklıkla tercih edilen todo list uygulamaları kullanır.Ben de bir to-do app yaptım._
 
 
 
-##### Proje Hakkında
-Bu to-do uygulamasında input'tan aldığımız ifade tasklist'e ekleniyor. TaskList component'i "t" prop'uyla aldığı array'i listeliyor.
+### _Proje Hakkında_
+
+
+_Bu to-do uygulamasında input'tan aldığımız ifade tasklist'e ekleniyor. TaskList component'i "t" prop'uyla aldığı array'i listeliyor._
 
