@@ -1,7 +1,7 @@
   # ToDo App
    
 <p align="center">
-  <img width="250" height="400" src="https://user-images.githubusercontent.com/33622890/161221665-f4966f25-9061-496a-93a9-b1dd093c2725.gif">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/33622890/161221665-f4966f25-9061-496a-93a9-b1dd093c2725.gif">
 </p> 
  
 
