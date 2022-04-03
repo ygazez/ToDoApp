@@ -26,3 +26,4 @@
 
 _Bu to-do uygulamasında input'tan aldığımız ifade tasklist'e ekleniyor. TaskList component'i "t" prop'uyla aldığı array'i listeliyor._
 
+#### Projenin yapılışını [buradaki](https://www.google.com) videoyu izleyerek bulabilirsiniz.
